@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+	// *** Get Votes From File ***
 	const string testFilename = "test1.txt";
 
 	ifstream ifs(testFilename, ifstream::in);
@@ -32,17 +33,14 @@ int main()
 		cout << v;
 		votes.push_back(v);
 	}
-
-
-	
-	
-
-	//char c = ifs.get();
-	//cout << getNumberOfCandidates(ifs);
-	//cout << c;
-
 	ifs.close();
-	
+
+
+	// *** Find The Winner ***
+
+
+
+
 
 	return 0;
 }
