@@ -1,4 +1,4 @@
 # VotesCounter
 
-Zadanie z przedmiotu Algorytmy i Struktury Danych:
+Zadanie z przedmiotu Algorytmy i Struktury Danych: <br />
 zliczanie głosów
