@@ -21,5 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <CopyFileToFolders Include="test1.txt" />
+    <CopyFileToFolders Include="test2.txt" />
+    <CopyFileToFolders Include="test3.txt" />
   </ItemGroup>
 </Project>
